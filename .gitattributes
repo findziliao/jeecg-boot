@@ -3,3 +3,4 @@
 *.html linguist-language=Java
 *.vue linguist-language=Java
 *.sql linguist-language=Java
+* text=auto eol=lf
